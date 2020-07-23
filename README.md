@@ -1,19 +1,19 @@
 ### 你好 👋
 
-<!--
-**vlong6/vlong6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄很高兴遇见你，请多指教
 
-Here are some ideas to get you started:
+- 我是一名 Java 工程师
+- 欢迎关注微信公众号『TIDE安全』
+- 博客：https://vlong6.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭
+🌱
+👯
+🤔
+💬
+📫
+😄
+⚡
 
 
 
